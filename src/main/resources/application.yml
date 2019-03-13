@@ -1,0 +1,7 @@
+---
+micronaut:
+    application:
+        name: my-problems
+
+---
+datasources.default: {}
